@@ -1,6 +1,6 @@
 # springDataJDBC
 
-#Домашнее задание
+# Домашнее задание
 Практика Spring Data JDBC
 
 Цель:
